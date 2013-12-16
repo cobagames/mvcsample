@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>iPhone</key>
+	<dict>
+		<key>bg</key>
+		<string>480x320</string>
+		<key>atlas</key>
+		<string>atlas</string>
+	</dict>
+	<key>iPhoneHD</key>
+	<dict>
+		<key>bg</key>
+		<string>960x640</string>
+		<key>atlas</key>
+		<string>atlas-hd</string>
+	</dict>
+	<key>iPhone-5</key>
+	<dict>
+		<key>bg</key>
+		<string>1136x640</string>
+		<key>atlas</key>
+		<string>atlas-hd</string>
+	</dict>
+</dict>
+</plist>
