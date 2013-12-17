@@ -25,7 +25,7 @@ public:
     virtual bool init();
     
     
-    // a selector callback
+    // a selector callback-
     void menuCloseCallback(CCObject* pSender);
     
     // preprocessor macro for "static create()" constructor ( node() deprecated )

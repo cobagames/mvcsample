@@ -18,7 +18,7 @@ Collision::~Collision(){
 }
 
 bool Collision::init(){
-	//test
+	//test .
     if (GameObject::init()) {
         this->setIsActive(true);
         this->initAnimations();

@@ -22,7 +22,7 @@ private:
     CC_SYNTHESIZE(CharacterStates, _characterState, characterState);
     
 public:
-    Ball();
+    Ball();//
     virtual ~Ball();
     virtual bool init();
     virtual void changeState(CharacterStates newState);

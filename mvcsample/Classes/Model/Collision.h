@@ -33,4 +33,4 @@ public:
 };
 
 
-#endif /* defined(__mvcsample__Collision__) */
+#endif /* defined(__mvcsample__Collision__) -*/

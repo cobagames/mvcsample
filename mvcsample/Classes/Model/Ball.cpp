@@ -17,7 +17,7 @@ Ball::~Ball(){
 }
 
 bool Ball::init(){
-	//test
+	//test 1
     if (GameObject::init()) {
         this->setIsActive(true);
         return true;
