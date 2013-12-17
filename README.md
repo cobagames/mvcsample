@@ -2,6 +2,9 @@ mvcsample
 =========
 A short description on the MVC pattern
 
+Complete explanation can be found here: 
+http://cobagames.com/2013/12/15/implementing-mvc-pattern-for-cocos2d-x-projects/
+
 Controller
 Send commands to model to update the model’s state. It can also send commands to it’s associated view to change the views’s presentation of the model.
 
